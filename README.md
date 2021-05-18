@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **Digital Marketing**
+
 - 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **fizzajaffery72@gmail.com**
