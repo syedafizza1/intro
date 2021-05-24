@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Fizza</h1>
-<h3 align="center">Passionate for understanding the nuances of multi-language software development</h3>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  
+<h1 align="center">This is Fizza Jaffery</h1>
+<h3 align="center">I am passionate for understanding the nuances of multi-language software development</h3>
+  
+  <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedafizza1&label=Profile%20views&color=0e75b6&style=flat" alt="syedafizza1" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedafizza1&label=Profile%20views&color=0e75b6&style=flat" alt="syedafizza1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedafizza1" alt="syedafizza1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working on [Testing of Buraq-mini Core](https://github.com/syedafizza1/buraq_mini)
 
