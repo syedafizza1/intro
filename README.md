@@ -41,3 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedafizza1&count_private=true&theme=dracula">
 
 </p>
+
+
+<br>**Visitors Count**  
+<p align="center">
+![VisitorCount](https://profile-counter.glitch.me/{syedafizza1}/count.svg)
+
