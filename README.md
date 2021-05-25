@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **fizzajaffery72@gmail.com**
 
-- ⚡ Fun fact **One day, I’d like to learn how to garden. I want to grow my own food. I love cooking and think it’s a logical step.**
+- ⚡ Fun fact **The Ctrl-Z is better than a time machine.**
 
 
 <h3 align="left">Languages and Tools:</h3>
