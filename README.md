@@ -14,6 +14,8 @@
 - 🔭 I’m currently working on [Testing of Buraq-mini Core](https://github.com/syedafizza1/buraq_mini)
 
 - 🌱 I’m currently learning **Digital Marketing**
+  
+- 🤝 Our team represented Pakistan in [INTERNNATIONAL RISC-V SUMMIT-2O](https://www.facebook.com/merluit/posts/remarkable-achievement-by-merl-uit-represented-pakistan-for-the-very-first-time-/401807034595415/)
 
 - 💬 Ask me about **PYTHON**
 
