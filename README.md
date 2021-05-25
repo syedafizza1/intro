@@ -55,7 +55,7 @@
       
 </p> -->
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedafizza1&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedafizza1&bg_color=000000&color=00768B&line=3B9C9C&point=43C6DB&area=true&hide_border=true)
 
 
 
