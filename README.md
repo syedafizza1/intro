@@ -44,7 +44,7 @@
 <p align="center">
   
   
-  <img src="https://github-readme-stats.vercel.app/api?username=syedafizza1&show_icons=true&theme=gotham"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedafizza1&count_private=true&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedafizza1&show_icons=true&theme=gotham"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedafizza1&count_private=true&theme=gotham" width=36.5%>
   
 <!-- </p>
   
