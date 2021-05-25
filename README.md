@@ -10,13 +10,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedafizza1" alt="syedafizza1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+  
+ - 👷 Currently pursuing BS in Software Engineering(2018-2022) from [Usman Institure of Technology.]
+
+ - 💼 Working as Research Intern at [Micro Electronics Research Lab (MERL-UIT)](https://github.com/merledu)
+
+ - ⚡ One of the Pioneers of RISC-V Open Source Silicon Revolution in Pakistan. 
+
+  - 🥇 Our team have represented Pakistan Internationally in [RISC-V Summit 2020](https://www.facebook.com/events/usa-united-states/reverse-engineering-of-rocket-chip/346308059814720/)
 
 - 🔭 I’m currently working on [Testing of Buraq-mini Core](https://github.com/syedafizza1/buraq_mini)
 
-- 🌱 I’m currently learning **Digital Marketing**
+- 🌱 I’m currently learning **SCALA & CHISEL**
   
-- 🤝 Our team represented Pakistan in [INTERNNATIONAL RISC-V SUMMIT-2O](https://www.facebook.com/merluit/posts/remarkable-achievement-by-merl-uit-represented-pakistan-for-the-very-first-time-/401807034595415/)
-
 - 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **fizzajaffery72@gmail.com**
@@ -38,16 +44,18 @@
 <p align="center">
   
   
-  <img src="https://github-readme-stats.vercel.app/api?username=syedafizza1&show_icons=true&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedafizza1&show_icons=true&theme=gotham"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedafizza1&count_private=true&theme=gotham">
   
-</p>
+<!-- </p>
   
   <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedafizza1&count_private=true&theme=gotham">
+ 
     
       
-</p>
+</p> -->
+  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedafizza1&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 
 
