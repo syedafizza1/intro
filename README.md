@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **fizzajaffery72@gmail.com**
 
-- ⚡ Fun fact **The Ctrl-Z is better than a time machine.**
+- ⚡ Fun fact: **The Ctrl-Z is better than a time machine.**
 
 
 <h3 align="left">Languages and Tools:</h3>
