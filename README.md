@@ -46,6 +46,9 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=syedafizza1&show_icons=true&theme=gotham"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedafizza1&count_private=true&theme=gotham">
   
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ssyedafizza1&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+  
 <!-- </p>
   
   <p align="center">
