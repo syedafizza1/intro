@@ -46,7 +46,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=syedafizza1&show_icons=true&theme=gotham"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedafizza1&count_private=true&theme=gotham">
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ssyedafizza1&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
   
 <!-- </p>
@@ -71,6 +70,9 @@
 <a href="https://linkedin.com/in/fizza-jaffery-9765b4178" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="fizza-jaffery-9765b4178" height="30" width="40" /></a>
 <a href="https://fb.com/syedafizzaj" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook-alt.svg" alt="syedafizzaj" height="30" width="40" /></a>
 <a href="https://instagram.com/fizza_jaffery_" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="fizza_jaffery_" height="30" width="40" /></a>
+  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedafizza1&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
 </p>
 
 
