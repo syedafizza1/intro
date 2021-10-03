@@ -71,8 +71,8 @@
 <a href="https://fb.com/syedafizzaj" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook-alt.svg" alt="syedafizzaj" height="30" width="40" /></a>
 <a href="https://instagram.com/fizza_jaffery_" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="fizza_jaffery_" height="30" width="40" /></a>
   
-<!--   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedafizza1&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
- -->
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedafizza1&&theme=gotham&hide_border=true)  
+
 </p>
 
 
