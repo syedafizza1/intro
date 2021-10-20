@@ -19,7 +19,7 @@
 
   - 🥇 Our team have represented Pakistan Internationally in [RISC-V Summit 2020](https://www.facebook.com/events/usa-united-states/reverse-engineering-of-rocket-chip/346308059814720/)
 
-- 🔭 I’m currently working on [Testing of RISC-V PIPELLINED Core](https://github.com/usmnzain/riscv-pipelined)
+- 🔭 I’m currently working on [NucleusRV](https://github.com/usmnzain/riscv-pipelined)
 
 - 🌱 I’m currently learning **SCALA & CHISEL**
   
