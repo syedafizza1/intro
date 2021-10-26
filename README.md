@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
   
- - 👷 Currently pursuing BS in Software Engineering(2018-2022) from [Usman Institure of Technology]
+ - 👷 Currently pursuing BS in Software Engineering(2018-2022) from [Usman Institure of Technology](https://www.uit.edu)
 
  - 💼 Research Intern at [Micro Electronics Research Lab (MERL-UIT)](https://github.com/merledu)
 
