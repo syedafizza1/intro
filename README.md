@@ -3,7 +3,8 @@
 <h1 align="center">This is Fizza Jaffery</h1>
 <h3 align="center">I am passionate for understanding the nuances of multi-language software development</h3>
   
-  <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
+  <img align="right" width=400px alt="Intro" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedafizza1&label=Profile%20views&color=0e75b6&style=flat" alt="syedafizza1" /> </p>
 
@@ -11,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
   
- - 👷 Currently pursuing BS in Software Engineering(2018-2022) from [Usman Institure of Technology.]
+ - 👷 Currently pursuing BS in Software Engineering(2018-2022) from [Usman Institure of Technology]
 
- - 💼 Working as Research Intern at [Micro Electronics Research Lab (MERL-UIT)](https://github.com/merledu)
+ - 💼 Research Intern at [Micro Electronics Research Lab (MERL-UIT)](https://github.com/merledu)
 
  - ⚡ One of the Pioneers of RISC-V Open Source Silicon Revolution in Pakistan. 
 
